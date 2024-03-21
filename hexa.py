@@ -1,0 +1,3 @@
+decimal_number = 25329033478623674471733103854802826650995
+hexadecimal_representation = hex(decimal_number)
+print(hexadecimal_representation)
